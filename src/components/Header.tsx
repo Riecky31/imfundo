@@ -3,9 +3,11 @@ export default function Header(){
 
     return(
         <nav>
-           Home
-           About
-           Contact
+         <ul className="flex gap-8" >
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+         </ul>
         </nav>
     );
 }
