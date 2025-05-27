@@ -1,9 +1,9 @@
 import { Isubject } from "@/interfaces/iSubject";
 
-export const list_subject :Isubject[]= [
+export const listSubject :Isubject[]= [
     {title: 'maths' , teacher: 'TK_khosa'},
-    {title: 'English' , teacher: 'K_sibiya'},
-    {title: 'L.O' , teacher: 'TK_kdlamini'},
+    {title: 'English' , teacher: 'K sibiya'},
+    {title: 'L.O' , teacher: 'TK dlamini'},
     {title: 'EMS' , teacher: 'Mdluli'},
 
 ]
